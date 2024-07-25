@@ -27,4 +27,11 @@ Visualizing the model's predictions compared to actual values.
 Testing the model with new, arbitrary input values to demonstrate its practical application.
 By completing this project, we aim to develop a robust predictive model that can assist in optimizing concrete mixtures for desired compressive strengths, ultimately contributing to more efficient and effective construction practices.
 
+## Notable Aspects:
+- Explored data relationships through exploratory analysis
+- Developed and assessed a polynomial regression model
+- Attained a solid fit with R² of 0.813 for training and 0.784 for testing
+- Validated the model using new input values
+﻿
+
 you can find the Data Set in this link "https://archive.ics.uci.edu/ml/machine-learning-databases/concrete/compressive/Concrete_Data.xls"
